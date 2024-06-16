@@ -53,7 +53,7 @@ export default defineConfig({
       },
     }),
   ],
-  base: '/Milkshake-nettside/',
+  base: '/',
   define: { 'process.env': {} },
   resolve: {
     alias: {
