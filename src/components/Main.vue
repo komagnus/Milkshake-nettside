@@ -19,6 +19,7 @@
 </template>
 
 <script setup lang="ts">
+import LoginPage from '@/pages/LoginPage.vue';
 import { useAppStore } from '@/stores/app';
 import { getUserFromDB } from '@/tools/apihandler';
 import '@/styles/style.css'
