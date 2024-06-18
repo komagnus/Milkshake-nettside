@@ -1,0 +1,1 @@
+/* empty css              */import{d as a,c as n,w as e,V as r,r as s,o as _,a as t,b as c}from"./index-DibJpjgu.js";const d=a({__name:"default",setup(p){return(l,u)=>{const o=s("router-view");return _(),n(r,null,{default:e(()=>[t(c,null,{default:e(()=>[t(o)]),_:1})]),_:1})}}});export{d as default};
